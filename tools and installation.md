@@ -1,4 +1,4 @@
-# **Summary – AI Forward Deployed Engineering Bootcamp**
+# **Tools and Installation**
 
 Class 1: Tools and Installation | Based on the uploaded transcript
 
