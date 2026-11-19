@@ -1,6 +1,6 @@
 # **Tools and Installation**
 
-Class 1: Tools and Installation | Based on the uploaded transcript
+Class 1: Tools and Installation
 
 ## **1. Industry expectations and AI-assisted development**
 
